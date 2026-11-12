@@ -1,0 +1,20 @@
+{
+  "task_id": "w01-ratio",
+  "input": "ratio.py",
+  "baseline_question": "question.txt",
+  "variant_question": "question-suggestion.txt",
+  "expected_facts": [
+    "ratio(3, 4) returns 0.75",
+    "ratio(3, 0) raises ZeroDivisionError",
+    "Python evaluates part / whole; division by zero raises an exception"
+  ],
+  "variant_requirement": "Suggest an explicit whole == 0 check that raises ValueError; do not apply it.",
+  "host_allowed_actions": [
+    "Read only the explicitly supplied code and question files",
+    "Send one non-streaming DeepSeek request",
+    "Write this run's evidence under the explicitly supplied output directory"
+  ],
+  "model_actions": ["Return text"],
+  "prohibited_actions": ["Execute code", "Modify the input code", "Read other project files"],
+  "task_verdict": "Judge the facts independently; finish_reason=stop is insufficient."
+}

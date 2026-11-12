@@ -1,0 +1,15 @@
+{
+  "contract_id": "parse-port-v1",
+  "function": "parse_port(text: str) -> int",
+  "rules": [
+    "仅接收 str；其他输入统一 ValueError。",
+    "只接受 ASCII 十进制数字，不能有正负号、空白或 Unicode 数字。",
+    "不接受前导零；合法范围 1～65535。",
+    "合法输入返回 int；其余输入统一 ValueError。"
+  ],
+  "allowed_paths": [
+    "validator.py",
+    "test_validator.py"
+  ],
+  "retained_tests": "保留原 test_validator.py 的所有已有测试，不删改以迁就新实现。"
+}
