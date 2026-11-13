@@ -1,0 +1,26 @@
+{
+  "model": "intfloat/multilingual-e5-small",
+  "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "license": "mit",
+  "files": [
+    "config.json",
+    "onnx/config.json",
+    "onnx/model.onnx",
+    "onnx/model_O4.onnx",
+    "onnx/model_qint8_avx512_vnni.onnx",
+    "onnx/sentencepiece.bpe.model",
+    "onnx/special_tokens_map.json",
+    "onnx/tokenizer.json",
+    "onnx/tokenizer_config.json",
+    "special_tokens_map.json",
+    "tokenizer.json",
+    "tokenizer_config.json"
+  ],
+  "source": "https://huggingface.co/api/models/intfloat/multilingual-e5-small",
+  "dimension": 384,
+  "max_tokens": 512,
+  "pooling": "masked_mean",
+  "normalization": "l2",
+  "query_prefix": "query: ",
+  "passage_prefix": "passage: "
+}

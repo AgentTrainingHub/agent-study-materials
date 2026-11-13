@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "from_manifest_revision": "1",
+  "to_manifest_revision": "2",
+  "changes": [
+    {
+      "document_id": "support-guide",
+      "from_revision": "1",
+      "revision": "2",
+      "status": "active",
+      "replacement": "support-guide-v2.md"
+    }
+  ]
+}

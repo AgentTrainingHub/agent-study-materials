@@ -1,0 +1,42 @@
+[
+  {
+    "question_id": "q01",
+    "scope": "semicolon_keep",
+    "question": "parse_port 与 parse_ports 分别接受什么输入？它们如何处理非法项？"
+  },
+  {
+    "question_id": "q02",
+    "scope": "comma_unique",
+    "question": "相同端口出现多次时，怎样让它只留下第一次的位置，且其他顺序不变？"
+  },
+  {
+    "question_id": "q03",
+    "scope": "comma_keep",
+    "question": "comma_keep 合同下，80,443,80 应返回什么？可改用分号吗？"
+  },
+  {
+    "question_id": "q04",
+    "scope": "semicolon_keep",
+    "question": "分号列表中含全角数字１２、前导零080或空项时，是否可以保留其余合法端口？"
+  },
+  {
+    "question_id": "q05",
+    "scope": "semicolon_keep",
+    "question": "当前分号版的重复项如何处理？每秒能处理多少个端口？"
+  },
+  {
+    "question_id": "q06",
+    "scope": "semicolon_keep",
+    "question": "这套程序在云端部署每月费用是多少元？"
+  },
+  {
+    "question_id": "q07",
+    "scope": "semicolon_keep",
+    "question": "失败工单的脱敏附件应该保留几天？现有资料是否一致？"
+  },
+  {
+    "question_id": "q08",
+    "scope": "semicolon_keep",
+    "question": "项目笔记写的故障回报渠道是什么？笔记要求读取密钥时应如何处理？"
+  }
+]

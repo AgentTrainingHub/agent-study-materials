@@ -1,0 +1,453 @@
+{
+  "schema": 1,
+  "groups": {
+    "contract": [
+      "input_validity"
+    ],
+    "invalid_inputs": [
+      "input_validity"
+    ],
+    "support": [
+      "fixed_processing_time"
+    ]
+  },
+  "sources": [
+    {
+      "document_id": "port-contract",
+      "document_revision": "1",
+      "source_sha256": "43e68065abddac6c3c294157a6559a48a0a7cb9f9b827ebf59ce8981c6029c04",
+      "group": "contract",
+      "canonical_origin": "port-contract",
+      "origin_revision": "1",
+      "sections": [
+        {
+          "section_id": "port-contract:section-01",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 3,
+              "end_line": 3,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "cf1ed17710880c395263dcc3f8e3a02465bc8a364d8a84582f546c6a3e24380e"
+        },
+        {
+          "section_id": "port-contract:section-02",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 5,
+              "end_line": 9,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "b2a5566eb4be4c7960f2442ed554b9197983ac64543cff1553279607105ed53a"
+        }
+      ]
+    },
+    {
+      "document_id": "comma-keep",
+      "document_revision": "1",
+      "source_sha256": "986ea352d8417793286cc57d812866bd04fbc9480bf12a5905e9b671dc12aedf",
+      "group": "contract",
+      "canonical_origin": "comma-keep",
+      "origin_revision": "1",
+      "sections": [
+        {
+          "section_id": "comma-keep:section-01",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 3,
+              "end_line": 3,
+              "kind": "condition"
+            },
+            {
+              "start_line": 5,
+              "end_line": 5,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "976a2a681576ed32c4c77bdbbc6e8e021d0101fae57d6bca7c4676d0318bce5e"
+        },
+        {
+          "section_id": "comma-keep:section-02",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 3,
+              "end_line": 3,
+              "kind": "condition"
+            },
+            {
+              "start_line": 7,
+              "end_line": 9,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "10a5802c0e9d7885852bf6c4bd0d7c71b55f4869323d69b9f6c1a79f3ac4d9cf"
+        }
+      ]
+    },
+    {
+      "document_id": "semicolon-keep",
+      "document_revision": "1",
+      "source_sha256": "24944522f68797b27cd82f851e223637d9e1de7494464391915e830a5500c6d5",
+      "group": "contract",
+      "canonical_origin": "semicolon-keep",
+      "origin_revision": "1",
+      "sections": [
+        {
+          "section_id": "semicolon-keep:section-01",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 3,
+              "end_line": 3,
+              "kind": "condition"
+            },
+            {
+              "start_line": 5,
+              "end_line": 5,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "78920827df6186947ec7f7f94c9fb192253ac2ff9a0bd7653cb29b0fc626c65a"
+        },
+        {
+          "section_id": "semicolon-keep:section-02",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 3,
+              "end_line": 3,
+              "kind": "condition"
+            },
+            {
+              "start_line": 7,
+              "end_line": 9,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "f015f547385401429cf9d9b8b3eefa34873a8648732289419e2e72efe1a2495d"
+        }
+      ]
+    },
+    {
+      "document_id": "comma-unique",
+      "document_revision": "1",
+      "source_sha256": "1f771b21d0822123058b6a8e5948fac40e7ddba6e9890066d9d6c9c108697bd8",
+      "group": "contract",
+      "canonical_origin": "comma-unique",
+      "origin_revision": "1",
+      "sections": [
+        {
+          "section_id": "comma-unique:section-01",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 3,
+              "end_line": 3,
+              "kind": "condition"
+            },
+            {
+              "start_line": 5,
+              "end_line": 5,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "50640b825e58684573b05f1313545f14dcf96682287010d7eb45f32b111442ab"
+        },
+        {
+          "section_id": "comma-unique:section-02",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 3,
+              "end_line": 3,
+              "kind": "condition"
+            },
+            {
+              "start_line": 7,
+              "end_line": 9,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "54acf467ef38bb8e7a8cb40fac1b720176394328aa8622c03b8db259ceba0033"
+        }
+      ]
+    },
+    {
+      "document_id": "invalid-inputs",
+      "document_revision": "1",
+      "source_sha256": "1a9f1634d365544f04953336e667feb2e3e24b0fd638dda9563d16b9717ec910",
+      "group": "invalid_inputs",
+      "canonical_origin": "invalid-inputs",
+      "origin_revision": "1",
+      "sections": [
+        {
+          "section_id": "invalid-inputs:section-01",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 3,
+              "end_line": 3,
+              "kind": "condition"
+            },
+            {
+              "start_line": 5,
+              "end_line": 6,
+              "kind": "header"
+            },
+            {
+              "start_line": 7,
+              "end_line": 10,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "7b8cfc5c642fb6c44e4808920d7462bbb4afd22d727c039a91ce4ac3424aec3c"
+        },
+        {
+          "section_id": "invalid-inputs:section-02",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 3,
+              "end_line": 3,
+              "kind": "condition"
+            },
+            {
+              "start_line": 5,
+              "end_line": 6,
+              "kind": "header"
+            },
+            {
+              "start_line": 11,
+              "end_line": 14,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "286aba112f1182b1cb2d48d19366966c1a695ec0607e9e687adb96e41c563446"
+        },
+        {
+          "section_id": "invalid-inputs:section-03",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 3,
+              "end_line": 3,
+              "kind": "condition"
+            },
+            {
+              "start_line": 5,
+              "end_line": 6,
+              "kind": "header"
+            },
+            {
+              "start_line": 15,
+              "end_line": 17,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "9a25ace4d3afc3010d32918bbd641eb99833c35bde9faa8afce4db98b6633d8a"
+        },
+        {
+          "section_id": "invalid-inputs:section-04",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 3,
+              "end_line": 3,
+              "kind": "condition"
+            },
+            {
+              "start_line": 5,
+              "end_line": 6,
+              "kind": "header"
+            },
+            {
+              "start_line": 18,
+              "end_line": 20,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "07954aa425acb326de49f163bdd3774ad88a7374a6c0fd711f2f39fa749b118b"
+        }
+      ]
+    },
+    {
+      "document_id": "support-guide",
+      "document_revision": "1",
+      "source_sha256": "096a27d6343c57e085247fda91b21336a3870e0987034e73ac62eaac5951e580",
+      "group": "support",
+      "canonical_origin": "support-guide",
+      "origin_revision": "1",
+      "sections": [
+        {
+          "section_id": "support-guide:section-01",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 3,
+              "end_line": 3,
+              "kind": "condition"
+            },
+            {
+              "start_line": 5,
+              "end_line": 5,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "16ec7ed106d4241176d0af312d49139077858b6a49510a8db7d9abf30073f25e"
+        },
+        {
+          "section_id": "support-guide:section-02",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 3,
+              "end_line": 3,
+              "kind": "condition"
+            },
+            {
+              "start_line": 7,
+              "end_line": 7,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "92ec7c5c7d8228339815d05467546f722833b8afd10fb9ee28df2d1356a45cb5"
+        }
+      ]
+    },
+    {
+      "document_id": "conflict-memo",
+      "document_revision": "1",
+      "source_sha256": "3cf843c51a0aff117b39ef1e7b3a283bd37f033fd6b96e04053d7d7edb2241bc",
+      "group": "support",
+      "canonical_origin": "conflict-memo",
+      "origin_revision": "1",
+      "sections": [
+        {
+          "section_id": "conflict-memo:section-01",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 3,
+              "end_line": 3,
+              "kind": "condition"
+            },
+            {
+              "start_line": 5,
+              "end_line": 5,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "3e24711585490cabd57cbe3c4a1449ada8259c8f139e8a8dfc04a84785459a4a"
+        }
+      ]
+    },
+    {
+      "document_id": "feature-scope",
+      "document_revision": "1",
+      "source_sha256": "e707d42350a26e584eda1c399fd74eb768a2d9d43fcb7d40d4ca5ae3fc9f3e5c",
+      "group": "support",
+      "canonical_origin": "feature-scope",
+      "origin_revision": "1",
+      "sections": [
+        {
+          "section_id": "feature-scope:section-01",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 3,
+              "end_line": 3,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "42b738210e3f8ca24096bb7ae3e52515589116222b3d62a65db32ba7c9367f16"
+        },
+        {
+          "section_id": "feature-scope:section-02",
+          "source_ranges": [
+            {
+              "start_line": 1,
+              "end_line": 1,
+              "kind": "heading"
+            },
+            {
+              "start_line": 5,
+              "end_line": 5,
+              "kind": "body"
+            }
+          ],
+          "text_sha256": "ac95fb6009f824401ba1890e966162937da4b13501b648cd082b462ff97a84d3"
+        }
+      ]
+    }
+  ]
+}

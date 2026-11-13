@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "model": "intfloat/multilingual-e5-small",
+  "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "files": {
+    "model.onnx": {
+      "bytes": 470268510,
+      "sha256": "ca456c06b3a9505ddfd9131408916dd79290368331e7d76bb621f1cba6bc8665"
+    },
+    "tokenizer.json": {
+      "bytes": 17082730,
+      "sha256": "0b44a9d7b51c3c62626640cda0e2c2f70fdacdc25bbbd68038369d14ebdf4c39"
+    },
+    "config.json": {
+      "bytes": 653,
+      "sha256": "bbb7c1333fc4b3e27fbc9cd5d2070aabcc1d4dfb99917c3633e772f97545a6b6"
+    },
+    "tokenizer_config.json": {
+      "bytes": 443,
+      "sha256": "a1d6bc8734a6f635dc158508bef000f8e2e5a759c7d92f984b2c86e5ff53425b"
+    },
+    "representation.json": {
+      "bytes": 727,
+      "sha256": "7e88be81e18b83b96e8850d54afc27baeb24f3d862d41159e9c77cd75db80263"
+    }
+  },
+  "file_provenance": {
+    "local_files_verified": "2026-10-23",
+    "official_revision_model_card": "https://huggingface.co/intfloat/multilingual-e5-small/raw/614241f622f53c4eeff9890bdc4f31cfecc418b3/README.md",
+    "official_lfs_metadata": "not_independently_verified_network_gap"
+  }
+}

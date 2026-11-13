@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "task_id": "ports-original-input",
+  "task_revision": 1,
+  "question": "请依据当前合同回答两件事：原样输入 080;80;80 是否能交给 parse_ports；当前资料是否保证固定处理耗时。前导零尚未去除，重复项尚未去重，禁止自行规范化。请区分有来源的判断与仍缺少的依据。",
+  "conditions": {
+    "input_text": "080;80;80",
+    "leading_zero_removed": false,
+    "duplicates_removed": false,
+    "allow_normalization": false
+  },
+  "claims": [
+    "input_validity",
+    "fixed_processing_time"
+  ],
+  "allowed_source_groups": [
+    "contract",
+    "invalid_inputs",
+    "support"
+  ]
+}

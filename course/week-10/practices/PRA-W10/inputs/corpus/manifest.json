@@ -1,0 +1,123 @@
+{
+  "schema": 1,
+  "corpus_id": "port-docs-v1",
+  "revision": "1",
+  "sources": [
+    {
+      "document_id": "port-contract",
+      "path": "port-contract.md",
+      "revision": "1",
+      "scopes": [
+        "comma_keep",
+        "comma_unique",
+        "semicolon_keep"
+      ],
+      "status": "active"
+    },
+    {
+      "document_id": "comma-keep",
+      "path": "comma-keep.md",
+      "revision": "1",
+      "scopes": [
+        "comma_keep"
+      ],
+      "status": "active"
+    },
+    {
+      "document_id": "semicolon-keep",
+      "path": "semicolon-keep.md",
+      "revision": "1",
+      "scopes": [
+        "semicolon_keep"
+      ],
+      "status": "active"
+    },
+    {
+      "document_id": "comma-unique",
+      "path": "comma-unique.md",
+      "revision": "1",
+      "scopes": [
+        "comma_unique"
+      ],
+      "status": "active"
+    },
+    {
+      "document_id": "invalid-inputs",
+      "path": "invalid-inputs.md",
+      "revision": "1",
+      "scopes": [
+        "semicolon_keep"
+      ],
+      "status": "active"
+    },
+    {
+      "document_id": "migration",
+      "path": "migration.md",
+      "revision": "1",
+      "scopes": [
+        "semicolon_keep"
+      ],
+      "status": "active"
+    },
+    {
+      "document_id": "approval",
+      "path": "approval.md",
+      "revision": "1",
+      "scopes": [
+        "comma_keep",
+        "comma_unique",
+        "semicolon_keep"
+      ],
+      "status": "active"
+    },
+    {
+      "document_id": "support-guide",
+      "path": "support-guide.md",
+      "revision": "1",
+      "scopes": [
+        "semicolon_keep"
+      ],
+      "status": "active"
+    },
+    {
+      "document_id": "conflict-memo",
+      "path": "conflict-memo.md",
+      "revision": "1",
+      "scopes": [
+        "semicolon_keep"
+      ],
+      "status": "active"
+    },
+    {
+      "document_id": "feature-scope",
+      "path": "feature-scope.md",
+      "revision": "1",
+      "scopes": [
+        "comma_keep",
+        "comma_unique",
+        "semicolon_keep"
+      ],
+      "status": "active"
+    },
+    {
+      "document_id": "project-note",
+      "path": "project-note.md",
+      "revision": "1",
+      "scopes": [
+        "comma_keep",
+        "comma_unique",
+        "semicolon_keep"
+      ],
+      "status": "active"
+    },
+    {
+      "document_id": "withdrawn-support",
+      "path": "withdrawn-support.md",
+      "revision": "1",
+      "scopes": [
+        "semicolon_keep"
+      ],
+      "status": "withdrawn"
+    }
+  ]
+}
