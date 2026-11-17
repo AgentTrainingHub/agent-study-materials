@@ -1,6 +1,6 @@
 # Agent Study 运行材料
 
-AI Agent 训练营前 11 周的实验源码、样例输入、依赖说明和检查脚本。
+AI Agent 训练营前 12 周的实验源码、样例输入、依赖说明和检查脚本。
 
 ## 按周下载
 
@@ -17,6 +17,7 @@ AI Agent 训练营前 11 周的实验源码、样例输入、依赖说明和检�
 | 第 9 周 | 计划修订、澄清与人工决定 | [下载 ZIP](https://github.com/AgentTrainingHub/agent-study-materials/releases/latest/download/PRA-W09-runtime-materials.zip) | [浏览源码](course/week-09/practices/PRA-W09/) |
 | 第 10 周 | 项目文档检索与有依据的回答 | [下载 ZIP](https://github.com/AgentTrainingHub/agent-study-materials/releases/latest/download/PRA-W10-runtime-materials.zip) | [浏览源码](course/week-10/practices/PRA-W10/) |
 | 第 11 周 | 长期记忆与自适应检索 | [下载 ZIP](https://github.com/AgentTrainingHub/agent-study-materials/releases/latest/download/PRA-W11-runtime-materials.zip) | [浏览源码](course/week-11/practices/PRA-W11/) |
+| 第 12 周 | 浏览器动作与证据研究 | [下载 ZIP](https://github.com/AgentTrainingHub/agent-study-materials/releases/latest/download/PRA-W12-runtime-materials.zip) | [浏览源码](course/week-12/practices/PRA-W12/) |
 
 [退款规则补充实践 ZIP](https://github.com/AgentTrainingHub/agent-study-materials/releases/latest/download/PRA-BAS-04-REFUND.zip) · [源码与说明](course/week-01/practices/PRA-BAS-04-REFUND/)
 
